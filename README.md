@@ -1,7 +1,7 @@
-# TipCalculator
+# Tip-Calculator
  Pre-work - *Tip Calculator*
 
-**tip calculator** is a tip calculator application for iOS.
+**tip-calculator** is a tip calculator application for iOS.
 
 Submitted by: **Ana Micieli**
 
@@ -11,21 +11,20 @@ Time spent: **1** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://recordit.co/OriNyvK7MU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [recordit](https://recordit.co/OriNyvK7MU).
+GIF created with [recordit](https://recordit.co).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 uploading this project on github 
 
 ## License
